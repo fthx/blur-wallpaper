@@ -1,5 +1,5 @@
 {
-  "description": "Blur wallpaper if a window is open.\n\n You can set the blur intensity.",
+  "description": "Blur wallpaper.\n\n Settings: desktop, overview, dynamic, blur intensity.",
   "name": "Blur Wallpaper",
   "shell-version": [
     "46",
